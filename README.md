@@ -10,12 +10,12 @@ list_of_lists_1 = [
         ['d', 'e', 'f', 'h', False],
         [1, 2, None]
 
-    доработан класс FlatIterator в [itetator1.py]() и функция [flat_generator]()
-    в [generator1.py]()
+    доработан класс FlatIterator в [itetator1.py](https://github.com/MariaZamyatina/iterators.generators/blob/master/iterator1.py) и функция flat_generator
+    в [generator1.py](https://github.com/MariaZamyatina/iterators.generators/blob/master/generator1.py)
 -  Для плоского представления списка вида 
     list_of_lists_2 = [
         [['a'], ['b', 'c']],
         ['d', 'e', [['f'], 'h'], False],
         [1, 2, None, [[[[['!']]]]], []]
     ]
-    доработан класс в [iterator2.py]() и функция в [generator2.py]()
+    доработан класс в [iterator2.py](https://github.com/MariaZamyatina/iterators.generators/blob/master/iterator2.py) и функция в [generator2.py](https://github.com/MariaZamyatina/iterators.generators/blob/master/generator2.py)
